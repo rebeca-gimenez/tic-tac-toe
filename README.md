@@ -1,7 +1,7 @@
 
 # Tic Tac Toe game
 
-A **tic tac toe game with a graphical user interface**, that offers the following features:
+A **[tic tac toe game](https://en.wikipedia.org/wiki/Tic-tac-toe) with a graphical user interface**, that offers the following features:
 * Choose the size of the board (from 3x3 to 9x9).
 * Play against a human opponent or a computer opponent.
 * Choose from 3 board color combinations.
