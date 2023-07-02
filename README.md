@@ -9,4 +9,7 @@ A **[tic tac toe game](https://en.wikipedia.org/wiki/Tic-tac-toe) with a graphic
 This project was created with **Python 3** to practice the following:
 * Creating game interfaces with **Tkinter** (a popular Python library).
 * Using the **Monte Carlo method** to select the best moves for the computer player.
-* Applying general **object-oriented programming** (OOP) knowledge. 
+* Applying general **object-oriented programming** (OOP) knowledge.
+
+https://github.com/rebeca-gimenez/tic-tac-toe/assets/74377124/581a7dd8-a927-49c0-9078-25f4aa70d4db
+
